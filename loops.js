@@ -12,10 +12,9 @@ return array
 
 function whileLoop(n){
 while ([]){
-  []
+  console.log()
 }
-return
-console.log()
+return 'done'
 }
 
 
