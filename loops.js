@@ -10,9 +10,12 @@ for (let i = 0; i < 25; i++) {
 return array
 }
 
-function whileLoop(){
-while (())
+function whileLoop(n){
+while ([]){
+  []
+}
 return
+console.log()
 }
 
 
