@@ -11,7 +11,8 @@ return array
 }
 
 function whileLoop(){
-  
+while (())
+return
 }
 
 
