@@ -9,3 +9,10 @@ for (let i = 0; i < 25; i++) {
 }
 return array
 }
+
+function doWhileLoop(array){
+  do {
+    array.pop();
+    } while (array.length > -1 && maybeTrue());
+  return array;
+}
